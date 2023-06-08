@@ -1,5 +1,12 @@
 # Certificate Course
 
+> Google Project Management
+- Name: Google Project Management
+- Issuing Organization: Coursera
+- Issue Date: April  2023
+- Expiration Date: This certification does not expire
+- Credential URL: https://coursera.org/share/d03acfa3ecf3302174e3514900d3a848
+
 > User Experience Research and Design
 - Name: User Experience Research and Design
 - Issuing Organization: Coursera
